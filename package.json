@@ -2,7 +2,7 @@
   "name": "real-estate",
   "version": "1.0.0",
   "description": "This is a practical project for MERN stack technologies",
-  "main": "index.js",
+  "main": "api/index.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon api/index.js",
